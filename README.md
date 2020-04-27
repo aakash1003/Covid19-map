@@ -1,4 +1,4 @@
-# Covid19-map
+# IndiaCovid19-map
 
 It is a map of india for locating the live cases of Corona Virus in India
 
